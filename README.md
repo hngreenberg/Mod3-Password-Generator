@@ -26,5 +26,5 @@ This application runs in the browser and use HTML, CSS, and JavaScript code.
 ### Mock-Up: 
 <img width="1133" alt="Screen Shot 2023-03-28 at 11 44 57 PM" src="https://user-images.githubusercontent.com/119267074/228448650-bbb757b7-27a6-432f-a3ff-842e2d7cd820.png">
 
-View live HERE
+### View live: https://hngreenberg.github.io/Mod3-Password-Generator/
 
