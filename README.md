@@ -1,27 +1,30 @@
-JavaScript Challenge: Password Generator
-This week's Challenge requires you to create an application that an employee can use to generate a random password based on criteria they've selected. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes. This week's coursework will teach you all the skills you need to succeed in this assignment.
+# JavaScript Challenge: Password Generator
 
-The password can include special characters. If you're unfamiliar with these, see this list of Password Special Characters from the OWASP FoundationLinks to an external site..
+This application is used to generate a random password based on the criteria that is prompted. 
+This application runs in the browser and use HTML, CSS, and JavaScript code. 
 
-User Story
-AS AN employee with access to sensitive data
-I WANT to randomly generate a password that meets certain criteria
-SO THAT I can create a strong password that provides greater security
-Acceptance Criteria
-GIVEN I need a new, secure password
-WHEN I click the button to generate a password
-THEN I am presented with a series of prompts for password criteria
-WHEN prompted for password criteria
-THEN I select which criteria to include in the password
-WHEN prompted for the length of the password
-THEN I choose a length of at least 8 characters and no more than 128 characters
-WHEN asked for character types to include in the password
-THEN I confirm whether or not to include lowercase, uppercase, numeric, and/or special characters
-WHEN I answer each prompt
-THEN my input should be validated and at least one character type should be selected
-WHEN all prompts are answered
-THEN a password is generated that matches the selected criteria
-WHEN the password is generated
-THEN the password is either displayed in an alert or written to the page
-Mock-Up
-The following image shows the web application's appearance and functionality:
+
+### Acceptance Criteria 
+
+1. GIVEN I need a new, secure password
+2. WHEN I click the button to generate a password
+3. THEN I am presented with a series of prompts for password criteria
+4. WHEN prompted for password criteria
+5. THEN I select which criteria to include in the password
+6. WHEN prompted for the length of the password
+7. THEN I choose a length of at least 8 characters and no more than 128 characters
+8. WHEN asked for character types to include in the password
+9. THEN I confirm whether or not to include lowercase, uppercase, numeric, and/or special characters
+10. WHEN I answer each prompt
+11. THEN my input should be validated and at least one character type should be selected
+12. WHEN all prompts are answered
+13. THEN a password is generated that matches the selected criteria
+14. WHEN the password is generated
+15. THEN the password is either displayed in an alert or written to the page
+
+
+### Mock-Up: 
+<img width="1133" alt="Screen Shot 2023-03-28 at 11 44 57 PM" src="https://user-images.githubusercontent.com/119267074/228448650-bbb757b7-27a6-432f-a3ff-842e2d7cd820.png">
+
+View live HERE
+
