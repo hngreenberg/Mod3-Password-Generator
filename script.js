@@ -2,10 +2,12 @@
 var characterLength = 8;
 var choiceArr = [];
 
-var upper= "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-var lower = "abcdefghijklmnopqrstuvwxyz";
-var special = "!@#$%^&*(){}[]+<>/,.|~?";
-var numerics = "1234567890";
+var specialArr = ["","","","","","","","","","","","",""]
+var lowerCaseArr =
+var upperCaseArr =
+var numberArr = 
+
+
 var pwLength = document.querySelector("#length");
 var upChar = document.querySelector("#upper");
 var lcChar = document.querySelector("#lower");
